@@ -32,4 +32,74 @@ The eyelid fell shut.
 CHAPTER ONE
 Six hours later, {Astelan-char-lastname} stepped onto the bridge - dimming his visor as he did(he had a head-splitting migrane) - and was greeted by complete chaos.
 
-Clearly, something had happened. He remembered - vaguely - that someone had tried to reach him last night. But - no, that simply couldn’t be related - they would have tried harder. Wouldn’t they?
+Clearly, something had happened. He remembered - vaguely - that someone had tried to reach him last night. But - no, that simply couldn’t be related - they would have tried harder - wouldn’t they?
+
+He took a deep breath, and strode calmly to the center of the bridge.
+
+<Report.>
+
+The bridge fell silent. In every person’s mind, he sensed fear, nervousness, and a sense of disbelief; a sense of hoping that someone else would speak up.
+Of course, no-one did.
+
+He turned to his science officer(she feared nothing, and was always commited to integrity and the scientific truth), but to his surprise he found that even she was uneasy.
+
+<{Astelan-science-officer-name} - what the hell is going on?>
+
+She snapped to attention - again, odd: [CHANGE WORDING: in an effort to reduce tension when he was a new captain, he had made it so that attention was not neccesary]
+<Sir, there is an inbound vessel. Initial measurements put its speed relative to this system’s sun at an approximate [very high speed], and we’ve - well, we’ve just confirmed it is travelling at [more precise vh speed].>
+
+<Impossible - even we do not have ships that fast - let alone the rest of the cluster. The sensors must be broken!>
+
+<That’s what i thought too, sir; but we’ve already checked and recalibrated the sensors.>
+
+[Very high speed] was impossible. He knew that - everyone knew that. No current technology, nor even any theoretical technologies, considered that speed to be remotely achievable, even for weapons. But a ship, of all things, achieving that speed? That was simply absurd.
+
+Nonetheless, it seemed that the impossible - in this case - was possible.
+
+He took a deep breath.
+<Ensign {ensign-name}, bring me a - >What was the word? Ah, yes - <Coffee, please.>
+Coffee, being the exotic Icaran drink that it was, was expensive. But if he ever deserved coffee, it was now.
+
+He paced, trying to clear his head. {ensign-name} brought him the Coffee; he drank it.
+<Contact the {Carrier-name}. Ask them to verify and deploy scouts, deploy a level-two screening field with a tempoary screen and blockade on our position; and then prepare to retreat to standard ready positions. Communications, attempt a hail.>
+
+*
+
+“Captain Spike, we’re recieving an urgent inbound message.”
+
+“Put it on.”
+
+“It’s text-only, sir. Its from one of our frigates, the {frigate-name}, which was escorting a cargo convoy. They’ve been attacked by a {pirate-faction}-ship, and while they have scared it off have taken considerable damage. Appearantly, it is headed in our direction at - and I quote: ‘Impossible speeds’, and {frigate-name} requests we intercept it.”
+
+“Reply with acknowledgement. Conn, sound General Quarters and plot an intercept course. Tactical, work with [replace: Astrology] and prepare a brief of the area of intercept and the enemy ship.“
+
+
+Chapter Two - two hours later - spike.
+
+Captain Des Spike - now dressed in full armor - strode towards the automatic doors of the briefing room.
+
+He still couldn’t believe what was happening. Yes - the frigate being attacked was regrettable, but for once he was where the action was; for once, he had something important to do - even if it was a simple anti-piracy one.
+
+As he stepped towards the doors, he stretched out his hand - the microchipped gauntlet transmitted his access code - the doors opened.
+
+“Report.”
+
+“Captain, we have confirmed the vessel to be similar to a {pirate-ship-class}. Assuming we depart at maximum speed in one hour, we will be intercepting them in quardrant five of this system, which is ideal - it is devoid of asteroids. We have also confirmed the {frigate-name}’s report of the vessel travelling at an ‘impossible speed’: It is - in-fact - travelling at appoximately {VH}.”
+
+“But…who even has engines of this class?”
+
+“No-one, sir. That’s why it’s impossible.”
+
+The room fell silent, as the officers gathered waited for that information to sink into Spike’s mind, and for him to give instructions.
+
+That took a while. But, eventually, he spoke.
+
+“Commander, proceed with the departure in…” Spike checked his watch.
+“Twenty-four minutes. Engage cloak and sound yellow alert. Inform me when we arrive.”
+
+Turning on his heel,
+*
+
+
+
+oswald font
