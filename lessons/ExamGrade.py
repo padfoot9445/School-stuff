@@ -1,15 +1,15 @@
 from enum import Enum
 class Grade(Enum):
     U = "U"
-    ONE = "1"
-    TWO = "2"
-    THREE = "3"
-    FOUR = "4"
-    FIVE = "5"
-    SIX = "6"
-    SEVEN = "7"
-    EIGHT = "8"
-    NINE = "9"
+    ONE = 1
+    TWO = 2
+    THREE = 3
+    FOUR = 4
+    FIVE = 5
+    SIX = 6
+    SEVEN = 7
+    EIGHT = 8
+    NINE = 9
 GRADE_BOUNDARIES = [float("-infinity"), 2, 4, 13, 22, 31, 41, 54, 67, 80, float("infinity")]
 GRADES = [Grade.U, Grade.ONE, Grade.TWO, Grade.THREE, Grade.FOUR, Grade.FIVE, Grade.SIX, Grade.SEVEN, Grade.EIGHT, Grade.NINE]
 def grade(mark: int) -> Grade:
