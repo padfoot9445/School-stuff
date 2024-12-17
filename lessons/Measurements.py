@@ -1,3 +1,6 @@
+# -------------------------
+# Subprograms
+# -------------------------
 def feet_to_inches(feet: float):
     return feet * 12
 def inches_to_feet(inches):
@@ -5,11 +8,14 @@ def inches_to_feet(inches):
 def converter():
     try:
         while True:
-            dispatch(input())
+            menu()
     except StopIteration:
         pass
-def dispatch(i):
-    match i:
+def menu():
+  dispatch()
+def dispatch():
+    while True:
+      match input():
         case "1":
             k = float(input())
             print(f"{k} feet is {feet_to_inches(k)} inches")
@@ -21,7 +27,6 @@ def dispatch(i):
         case "3":
             print("Goodbye")
             raise StopIteration()
-    raise ValueError("Invalid Input")
+      
 
-if __name__ == "__main__":
-    converter()
+
