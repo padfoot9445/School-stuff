@@ -23,3 +23,5 @@ def get_station() -> str:
     while not __input in STATIONS_SET:
         __input = input()
     return __input
+def calculate_stops(tst:list[str]):
+    return abs(STATIONS.index(tst[0]) - STATIONS.index(tst[1]))
