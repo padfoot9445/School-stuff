@@ -4,39 +4,13 @@ random.seed(10)
 
 
 # The value order of the cards for reference
-CARDS = [
-    "6C",
-    "7C",
-    "8C",
-    "9C",
-    "10C",
-    "JC",
-    "QC",
-    "KC",
-    "AC",
-    "6D",
-    "7D",
-    "8D",
-    "9D",
-    "10D",
-    "JD",
-    "QD",
-    "KD",
-    "AD",
-    "6H",
-    "7H",
-    "8H",
-    "9H",
-    "10H",
-    "JH",
-    "QH",
-    "KH",
-    "AH",
-]
-
+CARDS = ["6C", "7C", "8C", "9C", "10C", "JC", "QC", "KC", "AC",
+         "6D", "7D", "8D", "9D", "10D", "JD", "QD", "KD", "AD",
+         "6H", "7H", "8H", "9H", "10H", "JH", "QH", "KH", "AH",
+         "6S", "7S", "8S", "9S", "10S", "JS", "QS", "KS", "AS"]
 
 def play_game():
-    deck = CARDS
+    deck = CARDS.copy()
     random.shuffle(deck)
     __input = float("infinity")  # initialize value outside of range defined below
     while not (__input >= 0 and __input <= 34):
@@ -65,12 +39,11 @@ def __compare_suits(s1, s2):
 def output_winner(player, computer):
     def __equals(__player, __computer):
         """a wrapper around compare_suits to return the right thing"""
-        if __compare_suits(__player, __computer):
+        if __compare_suits(__player[-1], __computer[-1]):
             return __player
             # if the suit of the player is larger
         else:
             return __computer
-
     try:
         n1 = int(player[0])
     except ValueError:
