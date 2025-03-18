@@ -10,11 +10,9 @@ def distribution(number):
             return accumulator2
         else:
             return _dist(num - 1, accumulator2)
-    return _dist(number, [0 for _ in range(11)])
-
+    d = _dist(number, [0 for _ in range(11)])
+    print("\n".join(f"{i + 2} : {d[i]}" for i in range(11)))
 def main():
     number = int(input())
     d = distribution(number)
     print("\n".join(f"{i + 2} : {d[i]}" for i in range(11)))
-if __name__ == "__main__":
-    main()
